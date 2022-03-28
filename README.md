@@ -10,7 +10,29 @@ Results
 For my text analysis, something interesting I discovered was that the overall sentiment for both threads were slightly more positive than negative, though the Target thread did have slightly more positive sentiment than the McDonalds thread. However, the Target thread also had slightly higher negative sentiment than the McDonalds thread. For both of these sentiment analyses, there was an overwhelming amount of neutral sentiment. Before coding this project, I thought there would be much more negative sentiment than the results had shown, especially for an employee working at McDonalds.
 
 ![img1](https://i.imgur.com/tUTJ9RC.png)
+
+
 ![img2](https://i.imgur.com/t4nGmDD.png)
+
+Additionally, I developed a bar chart for the 20 most common positive and negative words for McDonalds and Target reddit threads separately. The results are as follows. The most common negative words for the McDonalds reddit thread is “shit,” which showed up almost 60 times, “pay,” which showed up around 55 times, and “bad,” which showed up around 47 times. From these three words alone, two seem to have obviously negative connotations; however, the word “pay” for example could have neutral connotations especially when talking about employment. On the other hand, the most common positive words for the McDonalds reddit thread is “like,” “good,” and “pretty.” Once again, since reddit is largely informal, the word “like” could have other definitions that are unrelated to positive connotation. Moving on to the 20 most common negative words for the Target reddit thread is “leave,” “bad,” and “fuck” and so forth. It seems to me that these words clearly denote a negative connotation without question. Moreover, the most common positive words for this thread are “like,” “best,” and “good”. One again, the word “like” has shown up and occurs much more frequently than other words for both threads. To me, this indicates that in hindsight perhaps I should give this word a neutral value, as the word itself can have many meanings and occurs many times.
+
 ![img3](https://i.imgur.com/q65uqRa.png)
 ![img4](https://i.imgur.com/9Tw1eAI.png)
 ![img5](https://i.imgur.com/Pktbr6s.png)
+
+Finally, the results of my Markov text synthesizer are as follows:
+For McDonalds:
+You mean to tell the manager wouldn't take care of by the griller guy, but everything else during rush hour.
+But the work is worth 8?
+I kind of animal in the kitchen, but sometimes their being dicks makes it all over me.
+
+For Target:
+You can’t take it to 3 years at target for two years.
+I'll never work retail again thanks to that place, but it was mostly the people I work at.
+I've been working for Target from 1996-2015 and honestly I don’t wanna go have to work hard, it’s work, but any good leader knows that some days are going to school, decent pay for my paycheck and anything else is just great life advice in general imo
+
+I made the Markov text synthesizer create three sentences for both McDonalds and Target. Clearly, the sentences that were generated from the Markov captures much of the described sentiment; however the grammatical structure of the sentences itself could be worked on. Perhaps the grammatical errors are caused by the poor grammar of redditor’s comments itself. 
+
+Reflection
+What went well was that I managed to learn a lot about how to code this project and how to collect sentiment data from a text. I also learned how to pull data from reddit threads which seemed very intimidating at first. Furthermore, I was able to develop my own code to reach a conclusion that I am fairly pleased with. What I could have done to improve was to be more on top of my work before this project started. I felt that this assignment has been incredibly difficult for me and I was stuck at every possible stage of the process, spending probably more than 20 working hours combined. I know that this is because this course is vigorous, but aspects such as extracting data from reddit and other minor details took up a lot of my time. I wish I knew lists, tuples, and dictionaries in detail before starting this assignment. However, overall, I definitely think that this project will be useful going forward. I never would have thought that I would be able to code such a project from start to finish, extraction to conclusion. In the future, I would probably use a similar code to run through texts which would make work much more efficient.
+
