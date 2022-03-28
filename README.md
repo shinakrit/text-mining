@@ -10,3 +10,7 @@ Results
 For my text analysis, something interesting I discovered was that the overall sentiment for both threads were slightly more positive than negative, though the Target thread did have slightly more positive sentiment than the McDonalds thread. However, the Target thread also had slightly higher negative sentiment than the McDonalds thread. For both of these sentiment analyses, there was an overwhelming amount of neutral sentiment. Before coding this project, I thought there would be much more negative sentiment than the results had shown, especially for an employee working at McDonalds.
 
 ![img1](https://i.imgur.com/tUTJ9RC.png)
+![img2](https://i.imgur.com/t4nGmDD.png)
+![img3](https://i.imgur.com/q65uqRa.png)
+![img4](https://i.imgur.com/9Tw1eAI.png)
+![img5](https://i.imgur.com/Pktbr6s.png)
